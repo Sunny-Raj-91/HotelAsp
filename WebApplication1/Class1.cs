@@ -5,7 +5,7 @@ using System.Web;
 
 namespace WebApplication1
 {
-    public class Class1 
+    public class Class
     {
 
     }
